@@ -1,0 +1,8 @@
+  spring:
+  application:
+  name:
+    kafkauser-service
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
